@@ -1,3 +1,2 @@
 # hello-world
 My first repository in Github
-Life sucks.. so does the God.........
